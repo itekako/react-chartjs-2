@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import Chart from 'chart.js';
+import Chart from '@itk/chart.js';
 import isEqual from 'lodash/isEqual';
 import find from 'lodash/find';
 
