@@ -1,6 +1,6 @@
 {
-  "name": "react-chartjs-2",
-  "version": "2.6.4",
+  "name": "@itk/react-chartjs-2",
+  "version": "2.6.5",
   "description": "react-chartjs-2",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -15,6 +15,7 @@
     "url": "https://github.com/jerairrest/react-chartjs-2/issues"
   },
   "dependencies": {
+    "@itk/chart.js": "^2.7.2",
     "lodash": "^4.17.4",
     "prop-types": "^15.5.8"
   },
@@ -34,7 +35,6 @@
     "canvas": "^1.6.2",
     "canvas-prebuilt": "^1.6.5-prerelease.1",
     "chai": "^3.5.0",
-    "chart.js": "2.6.0",
     "cross-env": "^5.0.0",
     "css-loader": "^0.28.5",
     "debug": "^2.4.1",
